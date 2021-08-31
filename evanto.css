@@ -1,0 +1,527 @@
+.main{
+    width: 100%;
+    height: 70px;
+    background-color: #ffffff;
+    border-bottom: 0.5px solid #f0f0f1;
+}
+
+.main-inner{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.img{
+    width: 30px;
+    height: 30px;
+    margin-left: 1%;
+    margin-top: 5%;
+}
+.imgs{
+    width: 28px;
+    height: 28px;
+    margin-top: 10.5%;
+}
+.evanto{
+    font-size: 42px;
+    margin-left: 0.5%;
+    font-style:oblique;
+    font-weight: bold;
+    margin-top: -2%;
+}
+.evantos{
+    font-size: 36px;
+    margin-left: 0.5%;
+    font-style:oblique;
+    font-weight: bold; 
+}
+.evant{
+    font-size: 36px;
+    margin-left: 0.5%;
+    color: #80b341;
+    font-style:oblique;
+    
+}
+.even{
+    display: flex;
+    flex-direction: row;
+}
+.product{
+    display: flex;
+    flex-direction: row;
+    margin-right: 58%;
+}
+.menu{
+    margin-left: 5%;
+    color: #6a6a6a;
+    font-size: 18px;
+}
+.corner{
+    width: 12%;
+    height: 32px;
+    border-radius: 5px;
+    border: solid 1px #dcdcdc;
+    margin-top: 0.5%;
+    margin-right: 2%;
+    display: flex;
+    flex-direction: row;
+    
+}
+.dot{
+    width: 20px;
+    height: 20px;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.inn-text{
+    font-size: 16px;
+    padding: 2%;
+    margin: 2%;
+    color: #707070;
+}
+.center{
+    width: 100%;
+    background-color: #fafafa;
+    margin-top: -6%;
+}
+.project{
+    width: 80%;
+    font-size: 10vh;
+    font-weight: bold;
+    padding-top: 12%;
+    margin-left: 10%;
+}
+.bring{
+    width: 70%;
+}
+.idea{
+    color: #75716c;
+    margin-left: 15%;
+    font-size: 28px;
+
+}
+.find{
+    color: #06929e;
+    font-size: 28px;
+    margin-left: 10.5%;
+}
+.finder{
+    color: #06929e;
+    font-size: 28px;
+    margin-left: 25%;
+}
+.wrap{
+    background-color: #fafafa;
+}
+.arrow{
+    display: flex;
+    flex-direction: row;
+}
+.arrow-pic{
+    height: 25px;
+    width: 25px;
+    margin-left: 1.5%;
+    margin-top: 0.5%;
+}
+.arrow-pic1{
+    height: 25px;
+    width: 25px;
+    margin-left: 1.5%;
+    margin-top: 0.9%;
+}
+.limit{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 5%;
+    margin-left: 8%;
+}
+.elements{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
+}
+.book{
+    height: 400px;
+    width: 500px;
+}
+.strong{
+    font-size: 36px;
+}
+.strongs{
+    font-size: 36px;
+    margin-left: 25%;
+}
+.strongse{
+    font-size: 36px;
+    margin-left: 32%;
+}
+.hamada{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-left: 5%;
+}
+.hamad{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.go{
+    display: flex;
+    flex-direction: row;
+    margin-left: -12%;
+    margin-top: 5%;
+}
+.gos{
+    display: flex;
+    flex-direction: row;
+    margin-left: 2.5%;
+    margin-top: 5%;
+}
+.graphics{
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 15%;
+    justify-content: space-between;
+}
+.grp{
+    height: 30px;
+    width: 30px;
+    margin-left: 40%;
+}
+.radius{
+    height: 80px;
+    margin-top: 10%;
+    color: #939496;
+    
+}
+.line{
+    height: 30px;
+    width: 30px;
+    margin-left: 25%;
+}
+.temp{
+    height: 30px;
+    width: 30px;
+    margin-left: 28%;
+}
+.music{
+    height: 30px;
+    width: 30px;
+    margin-left: 28%;
+}
+.photo{
+    height: 30px;
+    width: 30px;
+    margin-left: 30%;
+}
+.video{
+    height: 30px;
+    width: 30px;
+    margin-left: 30%;
+}
+.market{
+    display: flex;
+    flex-direction: row;
+    margin-left: 15%;
+    margin-top: 10%;
+}
+.worst{
+    margin-left: 20%;
+}
+.mark{
+    display: flex;
+    flex-direction: row;
+    margin-left: 22%;
+}
+.marks{
+    display: flex;
+    flex-direction: row;
+    margin-left: 18%;
+}
+.leef{
+    height: 25px;
+    width: 25px;
+}
+.des{
+    font-size: 36px;
+    font-weight: bold;
+    font-style: oblique;
+    margin-top: -4%;
+}
+.forn{
+    font-size: 36px;
+    color: #80b341;
+    margin-top: -4%;
+}
+.heart{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+}
+.target{
+    height: 40px;
+    width: 40px;
+}
+.tar{
+    font-size: 30px;
+}
+.txt{
+    align-items: center;
+    font-size: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.hear{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2%;
+}
+.zak{
+    font-size: 24px;
+}
+.bbh{
+    font-size: 24px;
+    color: #939496;
+    margin-left: 1%;
+}
+.netflix{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 5%;
+}
+.net{
+    font-size: 28px;
+    color: #c7c7c7;
+}
+.wall{
+    display: flex;
+     flex-direction: row;
+     margin-left: 2%;
+}
+.well{
+    font-size: 28px;
+    color: #c7c7c7;
+    margin-left: 3%;
+}
+.mart{
+    height: 30px;
+    width: 30px;
+    margin-top: 20%;
+}
+.marts{
+    height: 30px;
+    width: 30px;
+    margin-top: 22%;
+    margin-left: 3%;
+}
+.marted{
+    height: 30px;
+    width: 30px;
+    margin-top: 16%;
+}
+.nike{
+    height: 40px;
+    width: 80px;
+}
+.ihe{
+    font-size: 30px;
+    margin-left: 3%;
+}
+.nikk{
+    font-size: 30px;
+    color: #b3b3b3;
+}
+.med{
+    font-size: 30px;
+    color: #d2d2d2;
+}
+.google{
+    font-size: 30px;
+    color: #b3b3b3;
+}
+.hrm{
+    margin-left: 2%;
+}
+.jug{
+    display: flex;
+    flex-direction: row;
+}
+.keh{
+    font-size: 30px;
+    margin-left: 10%;
+    font-weight: bold;
+}
+.circle{
+    width: 95%;
+    height: 500px;
+    margin-right: 10%;
+    border-radius: 50%;
+    background-color: #f3f3f3;
+}
+.create{
+    font-size: 18px;
+    color: #7a7a7d;
+    margin-left: 10%;
+}
+.gre{
+    height: 25px;
+    width: 25px;
+    margin-left: 2%;
+    margin-top: 0.9%;
+}
+.more{
+    font-size: 26px;
+    color: #00a4c4;
+}
+.fund{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+}
+.imagin{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
+    margin-top: 15%;
+}
+.imagines{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.three{
+    height: 160px;
+    width: 230px;
+    border-radius: 5px;
+}
+.two{
+    height: 135px;
+    width: 150px;
+    border-radius: 5px;
+    margin-left: 5%;
+    margin-top: 6%;
+}
+.plus{
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.quick{
+    display: flex;
+    flex-direction: row;
+}
+.pls{
+    height: 22px;
+    width: 22px;
+}
+.links{
+    margin-left: 2%;
+    font-size: 21px;
+    color: #5a6672;
+}
+.exp{
+    font-size: 17px;
+    margin-left: 2%;
+    margin-top: 0.3%;
+    color: #afafb5;
+}
+.last{
+    display: flex;
+    margin-top: 5%;
+    flex-direction: row;
+    margin-left: 5%;
+    justify-content: space-between;
+}
+.worst{
+    margin-right: 45%;
+}
+.pics{
+    display: flex;
+    flex-direction: row;
+}
+.picse{
+    display: flex;
+    flex-direction: row;
+    
+}
+.ips{
+    height: 28px;
+    width: 28px;
+    margin-top: 7%;
+}
+.srt{
+    font-size: 40px;
+    margin-left: 1%;
+    font-style: oblique;
+}
+.career{
+    font-size: 20px;
+    margin-left: 13%;
+    margin-top: 6%;
+}
+.careers{
+    font-size: 20px;
+    margin-left: 18%;
+    margin-top: 6%;
+}
+.careerd{
+    font-size: 20px;
+    margin-left: 22%;
+    margin-top: 6%;
+}
+.careerb{
+    font-size: 20px;
+    margin-left: 18%;
+    margin-top: 6%;
+}
+.points{
+    display: flex;
+    flex-direction: row;
+    
+}
+.bb{
+    height: 100px;
+    width: 100px;
+    margin-left: -70%;
+}
+.off{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
+    margin-top: 5%;
+    justify-content: space-between;
+}
+.tuts{
+    display: flex;
+    flex-direction: row;
+}
+.tutes{
+    display: flex;
+    flex-direction: row;
+    margin-right: 15%;
+}
+.site{
+    font-size: 15px;
+    text-indent: 2em;
+}
+.m{
+    height: 35px;
+    width: 35px;
+    margin-left: 5%;
+}
+.abc{
+    margin-left: 7%;
+    margin-top: 3%;
+}
+.pak{
+    font-size: 18px;
+    color: #75716c;
+}
